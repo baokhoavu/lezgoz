@@ -1,0 +1,78 @@
+body {
+  background-color: black;
+  background-image: url('https://i.imgur.com/7prc6KK.png' );
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.myCredits {
+  font-size: 10px;
+  margin-top: 100px;
+  margin-left: 100px;
+  /*padding: 25px;*/
+}
+
+.creditOne {
+  margin: 10px 10px 10px 150px;
+}
+
+.creditTwo {
+  margin: 10px 10px 10px 150px;
+}
+
+.creditThree {
+  margin: 10px 10px 10px 150px;
+}
+
+.myName {
+  left: 22px;
+  font-size: 50px;
+  font-family: "Shadows Into Light";
+  color: white;
+  text-shadow: 4px 4px 2px black;
+}
+
+.theHook {
+  color: #f9d1af;
+  text-align: center;
+  font-size: 50px;
+  font-weight: lighter;
+  margin-top: 120px;
+  font-family: 'Quicksand', sans-serif;
+  /*font-family: 'IM Fell French Canon SC', sans-serif;*/
+  text-shadow: 2px 2px 2px #926239;
+  position: static;
+}
+
+.myCredits {
+  left: 100px;
+  font-size: 20px;
+  color: #f9d1af;
+}
+
+.pageName {
+  color: white;
+  position: absolute;
+  left: 50px;
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 4px 4px 2px black;
+
+}
+
+.navBar {
+  /*background-color: black;*/
+  overflow: hidden;
+}
+
+.navBar a {
+  float: right;
+  display: block;
+  color: white;
+  /*text-align: center;*/
+  padding: 25px 25px;
+  font-size: 25px;
+  /*right: 200px;*/
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  text-shadow: 4px 4px 2px black;
+}
