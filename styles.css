@@ -38,6 +38,7 @@ body {
   font-size: 50px;
   font-weight: lighter;
   margin-top: 120px;
+  margin-bottom: 600px;
   font-family: 'Quicksand', sans-serif;
   /*font-family: 'IM Fell French Canon SC', sans-serif;*/
   text-shadow: 2px 2px 2px #926239;
@@ -76,3 +77,13 @@ body {
   text-decoration: none;
   text-shadow: 4px 4px 2px black;
 }
+
+section {
+  color: white;
+  text-shadow: 2px 2px 2px #926239;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  /*font-size: 5px;*/
+}
+
