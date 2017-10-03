@@ -76,6 +76,8 @@ body {
   font-family: 'Quicksand', sans-serif;
   text-decoration: none;
   text-shadow: 4px 4px 2px black;
+  top: 0;
+  position: fixed;
 }
 
 section {
